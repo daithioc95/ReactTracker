@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { HashRouter as Router, Route } from 'react-router-dom'
 import Header from "./components/Header";
 import Tasks from "./components/Tasks";
 import AddTask from "./components/AddTask";
@@ -77,7 +77,7 @@ const toggleReminder = (id) => {
             </>
           )}
         />
-        <Route path='/about' component={About} />
+        <Route path='/about/' component={About} />
         <Footer />
       </div>
     </Router>
