@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactTracker/static/css/main.31cd00b7.css",
-    "main.js": "/ReactTracker/static/js/main.3b0751a8.js",
-    "static/js/111.1b91b764.chunk.js": "/ReactTracker/static/js/111.1b91b764.chunk.js",
+    "main.css": "/ReactTracker/static/css/main.8ea2b8c5.chunk.css",
+    "main.js": "/ReactTracker/static/js/main.23f453c7.chunk.js",
+    "main.js.map": "/ReactTracker/static/js/main.23f453c7.chunk.js.map",
+    "runtime-main.js": "/ReactTracker/static/js/runtime-main.568beff2.js",
+    "runtime-main.js.map": "/ReactTracker/static/js/runtime-main.568beff2.js.map",
+    "static/js/2.74b72261.chunk.js": "/ReactTracker/static/js/2.74b72261.chunk.js",
+    "static/js/2.74b72261.chunk.js.map": "/ReactTracker/static/js/2.74b72261.chunk.js.map",
+    "static/js/3.313667e4.chunk.js": "/ReactTracker/static/js/3.313667e4.chunk.js",
+    "static/js/3.313667e4.chunk.js.map": "/ReactTracker/static/js/3.313667e4.chunk.js.map",
     "index.html": "/ReactTracker/index.html",
-    "main.31cd00b7.css.map": "/ReactTracker/static/css/main.31cd00b7.css.map",
-    "main.3b0751a8.js.map": "/ReactTracker/static/js/main.3b0751a8.js.map",
-    "111.1b91b764.chunk.js.map": "/ReactTracker/static/js/111.1b91b764.chunk.js.map"
+    "static/css/main.8ea2b8c5.chunk.css.map": "/ReactTracker/static/css/main.8ea2b8c5.chunk.css.map",
+    "static/js/2.74b72261.chunk.js.LICENSE.txt": "/ReactTracker/static/js/2.74b72261.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.31cd00b7.css",
-    "static/js/main.3b0751a8.js"
+    "static/js/runtime-main.568beff2.js",
+    "static/js/2.74b72261.chunk.js",
+    "static/css/main.8ea2b8c5.chunk.css",
+    "static/js/main.23f453c7.chunk.js"
   ]
 }
