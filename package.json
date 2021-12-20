@@ -1,6 +1,6 @@
 {
   "homepage": "http://daithioc95.github.io/",
-  "name": "my-app",
+  "name": "ReactTaskTracker2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
