@@ -10,21 +10,21 @@ const App = () => {
   const [showAddTask, setShowAddTask] = useState(false)
   const [tasks, setTasks] = useState([
     {
-      "day": "Gold Romeo Square Hoops",
+      "day": "Tuesday",
       "id": "85",
-      "text": "Stunning! I love them.",
+      "text": "Clean Bedroom.",
       "reminder": true
     },
     {
-      "day": "Gold Siren Hoops",
+      "day": "Wednesday",
       "id": "110",
-      "text": "Yummy",
+      "text": "Study French",
       "reminder": false
     },
     {
-      "day": "Half Moon Pearl Earrings",
+      "day": "Thursday",
       "id": "70",
-      "text": "Delightful! Dressy without being garish.",
+      "text": "Grocery Shopping.",
       "reminder": true
     }
   ])
